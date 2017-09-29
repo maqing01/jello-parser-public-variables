@@ -35,13 +35,13 @@ module.exports = function(content, file, config) {
                 continue;
             }
             var myKey = Object.keys(replaceList[i])[0];
-            console.log('myKey: ' + myKey);
+            // console.log('myKey: ' + myKey);
             var reg = new RegExp(myKey, 'g');
-            console.log('reg: ' + reg);
+            // console.log('reg: ' + reg);
             var newStr = replaceList[i][myKey];
-            console.log('newStr: ' + newStr);
+            // console.log('newStr: ' + newStr);
             content = content.replace(reg, newStr);
-            console.log(content);
+            // console.log(content);
         }
     }
 	return content;
