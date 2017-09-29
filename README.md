@@ -1,20 +1,20 @@
 # jello-parser-public-variables
 ***
-* 58½ğÈÚÊÂÒµ²¿»ùÓÚfisËù±àĞ´µÄ²å¼ş
-* ÔÚ±àÒë¹ı³ÌÖĞ½«Ö¸¶¨ÀàĞÍÎÄ¼şÖĞµÄÖ¸¶¨×Ö·û´®ÕûÌåÌæ»»
+* 58é‡‘èäº‹ä¸šéƒ¨åŸºäºfisæ‰€ç¼–å†™çš„æ’ä»¶
+* åœ¨ç¼–è¯‘è¿‡ç¨‹ä¸­å°†æŒ‡å®šç±»å‹æ–‡ä»¶ä¸­çš„æŒ‡å®šå­—ç¬¦ä¸²æ•´ä½“æ›¿æ¢
 
 
-# fis-config.js ÅäÖÃ
+# fis-config.js é…ç½®
 ***
 * fis.config.set('modules.parser.vm', 'public-variables');
 * fis.config.set('modules.parser.js', 'public-variables');
 * fis.config.set('modules.parser.css', 'public-variables');
 * fis.config.set('settings.parser.public-variables', {
-* ¡¡¡¡replaceList: [
-* ¡¡¡¡¡¡¡¡{"%PUBLIC%": "http://github.com"}
-* ¡¡¡¡]
+* ã€€ã€€replaceList: [
+* ã€€ã€€ã€€ã€€{"%PUBLIC%": "http://github.com"}
+* ã€€ã€€]
 * })
 
 ***
 
-* [¾ßÌåÊ¹ÓÃ²Î¿¼](http://fex-team.github.io/fis-site/docs/dev/plugin.html)
+* [å…·ä½“ä½¿ç”¨å‚è€ƒ](http://fex-team.github.io/fis-site/docs/dev/plugin.html)
