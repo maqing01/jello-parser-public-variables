@@ -1,6 +1,6 @@
 # jello-parser-public-variables
 ***
-* 基于fis2 + jello所编写的插件
+* 基于fis + jello所编写的插件
 * 在编译过程中将指定类型文件中的指定字符串整体替换
 
 
